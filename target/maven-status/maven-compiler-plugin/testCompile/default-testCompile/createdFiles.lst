@@ -1,0 +1,5 @@
+com\mohs10\scripts\HomeTest.class
+com\mohs10\getData\getdata.class
+com\mohs10\or\HomePage.class
+com\mohs10\Report\PDFReportTest.class
+com\mohs10\reuse\CommonFuns.class
