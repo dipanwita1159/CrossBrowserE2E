@@ -10,7 +10,7 @@ import com.mohs10.reuse.CommonFuns;
 
 public class HomeTest extends StartBrowser {
 
-	String excelfile = "C:\\My Documents\\a\\trainning season\\CrossBrowser_painite\\TestData\\Data.xlsx";
+	String excelfile = "TestData\\Data.xlsx";
 	String excelsheet = "Login";
 
 	@Test
